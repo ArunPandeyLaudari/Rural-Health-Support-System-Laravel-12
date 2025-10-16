@@ -1,0 +1,1 @@
+this mail is sent from laravel commands
