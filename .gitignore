@@ -18,6 +18,6 @@ yarn-error.log
 /.idea
 /.vscode
 
-resources\views
 
-resources
+# i want to add resources\views in my gitignore
+/resources/views
